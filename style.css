@@ -1,0 +1,31 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.content-area{
+    text-align: center;
+    padding: 100px 25% 100px 25%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.question-area{
+    padding: 200px 0px 200px 0px;
+}
+
+.textfield {
+    border: none;
+    background: none;
+    outline: none;
+    width: 500px;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+}
+
+.textfield{
+    font-size: 40px;
+}
